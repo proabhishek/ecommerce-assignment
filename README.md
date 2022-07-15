@@ -15,7 +15,9 @@ This is just for reference you can make your own design with all these features.
 
 <img src="ProductDetails.png" alt="home-preview" width=auto height=auto>
 
-### Cart Screen
+### Cart Screen (optional)
+
+Extra point if you do it.
 
 <img src="cart.png" alt="cart-preview" width=auto height=auto>
 
@@ -84,6 +86,15 @@ The following pages have more details. Please read through the entire document f
 <hr>
 
 > product_lists.json
+
+
+## For data: 
+
+Please do an api call , 
+
+documentaion and details about the apis are here:  https://fakestoreapi.com/docs
+
+In case api doesnot work out for you, than use json but in that case your points will be deducted.
 
 ```json
 [
