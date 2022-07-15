@@ -53,7 +53,7 @@ The following pages have more details. Please read through the entire document f
    9. **imageURL**: image of a product
    10. **sellerName**: Name of the seller(string)
    11. **isNewProduct**:type of the product(boolean)
-       `You should use all the elements provided in the json in your user-interface.`
+       `You should use all the elements provided in the json in your user-interface or Api`
 6. It should have the following features
 
    1. When the app starts, the app loads the list of the products and displays the product with specified data.
